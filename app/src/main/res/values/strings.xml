@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Katalog Novel</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="romance">Romance</string>
+    <string name="horror">Horror</string>
+    <string name="dilan_1990">Dilan 1990</string>
+    <string name="nama">nama</string>
+
+    <string-array name="horror_name">
+        <item>Arumi</item>
+        <item>Danur</item>
+        <item>Rasuk</item>
+        <item>Pergi</item>
+        <item>Dhirga</item>
+    </string-array>
+
+    <string-array name="romance_name">
+        <item>Ayah</item>
+        <item>Boy Candra</item>
+        <item>Dilan</item>
+        <item>Hujan</item>
+        <item>Mariposa</item>
+    </string-array>
+
+    <array name="horror_image">
+        <item>@drawable/arumi</item>
+        <item>@drawable/danur</item>
+        <item>@drawable/rasuk</item>
+        <item>@drawable/pergi</item>
+        <item>@drawable/dhirga</item>
+    </array>
+
+    <array name="romance_image">
+        <item>@drawable/ayah</item>
+        <item>@drawable/boycandra</item>
+        <item>@drawable/dilan</item>
+        <item>@drawable/hujan</item>
+        <item>@drawable/mariposa</item>
+    </array>
+</resources>
